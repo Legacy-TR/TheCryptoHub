@@ -1,7 +1,7 @@
 # TheCryptoHub
 This is a new Crypto related thing that has a built in miner!
 
-Features!
+<b>Features!</b>
 Miner
 
 Wallet
