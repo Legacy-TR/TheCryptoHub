@@ -2,6 +2,7 @@
 This is a new Crypto related thing that has a built in miner!
 
 <b>Features!</b>
+
 Miner
 
 Wallet
